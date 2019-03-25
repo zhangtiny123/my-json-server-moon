@@ -1,11 +1,50 @@
 {
   "teachers": [
-    { "id": 1, "name": "huanhuan" },
-    { "id": 2, "name": "doudou" },
-    { "id": 3, "name": "huahua" }
+    {
+      "id": 1,
+      "name": "欢欢老师",
+      "nickname": "huanhuan",
+      "year_of_experience": 2,
+      "desc": "毕业于学前教育幼师专业\\n熟悉幼儿特性以及发展特点\\n热情大方，热爱宝宝教育事业\\n喜欢游泳，对人超有耐心",
+      "avatar_url": "https://pineapple-pie-web.oss-cn-hangzhou.aliyuncs.com/NgtjnnAYhpzawBsRFNf4iCGM?Expires=1552963425&OSSAccessKeyId=LTAIimUOdypqUHgM&Signature=55BNiqITSmT76keTrA5F6H9%2BRp4%3D",
+      "photo_url": "https://pineapple-pie-web.oss-cn-hangzhou.aliyuncs.com/dkxngbYTC6DWJV5pUqpnZpB3?Expires=1552963425&OSSAccessKeyId=LTAIimUOdypqUHgM&Signature=UiD4%2BcqjYtvFKw1La8vpQzkXl48%3D",
+      "is_baby_swimming": true,
+      "is_baby_massage": true,
+      "total_appointment_count": 1,
+      "avg_appointment_score": 0
+    },
+    {
+      "id": 2,
+      "name": "林林老师",
+      "nickname": "linlin",
+      "year_of_experience": 2,
+      "desc": "毕业于学前教育幼师专业\\n极具个人特色的宝宝陪护 C 位担当\\n超有爱心，喜欢陪宝宝玩耍\\n了解宝宝心理学相关知识，待人友好",
+      "avatar_url": "https://pineapple-pie-web.oss-cn-hangzhou.aliyuncs.com/tWL4rQrKPsMVQzgSfnBqHDNe?Expires=1552963425&OSSAccessKeyId=LTAIimUOdypqUHgM&Signature=49vADZT8ynMwMqIud95Um5Letno%3D",
+      "photo_url": "https://pineapple-pie-web.oss-cn-hangzhou.aliyuncs.com/94VZ6pZBoVipeZxQwDsA9KJs?Expires=1552963425&OSSAccessKeyId=LTAIimUOdypqUHgM&Signature=wndPYaeukDgfZWku3s4tMM%2FMrzs%3D",
+      "is_baby_swimming": true,
+      "is_baby_massage": true,
+      "total_appointment_count": 0,
+      "avg_appointment_score": 0
+    }
   ],
   "cards": [
-    { "id": 1, "name": "限时3次 水育推拿卡", "total_times": 100 },
-    { "id": 2, "name": "半年超级 VIP 全项目金卡", "total_times": 1000 }
+    {
+      "id": 1,
+      "name": "限时超值水育体验课",
+      "price": "59.0",
+      "orig_price": "129.0",
+      "validity_period": -1,
+      "total_times": 1,
+      "desc": null
+    },
+    {
+      "id": 2,
+      "name": "限时3次超值小儿推拿体验课",
+      "price": "128.0",
+      "orig_price": "299.0",
+      "validity_period": -1,
+      "total_times": 3,
+      "desc": null
+    }
   ]
 }
